@@ -1,0 +1,9 @@
+.DS_Store
+.gradle/
+.mvn/
+.maven/
+.apt_generated_tests/
+bin/
+build/
+target/
+lib/bin/
